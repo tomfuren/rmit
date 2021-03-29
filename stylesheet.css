@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font: 13px Verdana, Helvetica, Arial, sans-serif;
 }
 h2 {
     display: block;
