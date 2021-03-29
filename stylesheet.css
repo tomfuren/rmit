@@ -4,9 +4,9 @@
 
 body {
   margin: 0;
-  font: 133px Verdana, Helvetica, Arial, sans-serif;
+  font: 13px Verdana, Helvetica, Arial, sans-serif;
 }
-h2 {
+.heading h2 {
     display: block;
     padding-top: 45px;
     margin-top: -45px;
