@@ -16,3 +16,53 @@ h2 {
     border-left: solid 5px #5b5b5b;
     border-bottom: solid 3px #d7d7d7;
 }
+
+.p-box.p-orange {
+    border: 2px solid #FFE0B2;
+}
+.p-box {
+    position: relative;
+    background-color: #fff;
+    border: 2px solid #CFD8DC;
+    border-radius: 5px;
+    margin: 30px 5px 20px 7px;
+    padding: 25px 20px 15px 20px;
+}
+div.p-box.p-orange .p-box-title {
+    background-color: #FFCC80;
+}
+.p-box .p-box-title {
+    position: absolute;
+    left: -10px;
+    top: -20px;
+    border-radius: 15px;
+    background-color: #90A4AE;
+    color: #fff;
+    font-family: "FontAwesome", "Helvetica","Yu Gothic";
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 20px;
+}
+
+h3 {
+    margin: 2.6em 0 0.7em;
+    padding: 10px 0 10px 10px;
+    border-left-width: 4px;
+    border-left-style: solid;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+
+
