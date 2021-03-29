@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
 }
+@media only screen and (min-width: 1240px)
+.single .wrap, .page .wrap, .archive .wrap, .single #inner-content, .page #inner-content {
+    width: 1180px;
+}
 
 body {
   font: 13px Verdana, Helvetica, Arial, sans-serif;
