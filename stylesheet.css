@@ -6,13 +6,13 @@ body {
   margin: 0;
   font: 13px Verdana, Helvetica, Arial, sans-serif;
 }
-.heading h2 {
+h2 {
     display: block;
     padding-top: 45px;
     margin-top: -45px;
-  font-size: 1.4em;
+    font-size: 1.4em;
     line-height: 1.6;
-  padding: 0.4em 0.5em;
+    padding: 0.4em 0.5em;
     background: #f4f4f4;
     border-left: solid 5px #5b5b5b;
     border-bottom: solid 3px #d7d7d7;
